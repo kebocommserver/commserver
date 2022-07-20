@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+
+#left{
+    position: relative;
+    top: 8px;
+    left: 166px;
+}
+
+#right{
+    position: relative;
+    top: -119px;
+    left: 294px;
+}
+
+#man{
+    position: relative;
+    top: -188px;
+    left: 79px;
+}
